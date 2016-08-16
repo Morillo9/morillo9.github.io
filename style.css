@@ -83,17 +83,15 @@ h3 {
     margin: 10px;
     box-shadow: 0px 0px 15px black;
 }
-
 .category2 {
-    float: left;
-    position: center;
-    top: 0px;
-    left: 0px;
+    float: center;
+    position: relative;
     height: calc(100% - 20px);
     width: calc((100% - 120px) / 5);
-    margin: 10px;
+    margin: auto;
     box-shadow: 0px 0px 15px black;
 }
+
 
 .category:nth-child(1) {
     margin-left: 20px;
